@@ -1,0 +1,1 @@
+print("Esse é um belo exemplo de código! :)")
