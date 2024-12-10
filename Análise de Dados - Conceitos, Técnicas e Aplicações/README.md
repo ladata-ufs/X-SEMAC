@@ -42,4 +42,12 @@ Para utilizar os notebooks, você precisará de:
 
 **Se preferir, também pode utilizar o Google Colab para executar os notebooks diretamente no navegador, sem necessidade de instalação.**
 
+<h2>👥 Colaboração</h2>
+
+<a href="https://github.com/" target="blank"><img align="center" src="https://github.com/ladata-ufs/template-ladata/assets/88946365/afb7847d-94b5-4f86-980c-b807f97e31c5" witdh="28" height="28"/></a> **[Pedro Henrique Rocha](https://github.com/pedro-niHiL)**: Membro Efetivo da LADATA
+
+<a href="https://github.com/" target="blank"><img align="center" src="https://github.com/ladata-ufs/template-ladata/assets/88946365/afb7847d-94b5-4f86-980c-b807f97e31c5" witdh="28" height="28"/></a> **[Kely Murta]()**: Diretora de Pesquisa da LADATA
+
+<a href="https://github.com/" target="blank"><img align="center" src="https://github.com/ladata-ufs/template-ladata/assets/88946365/afb7847d-94b5-4f86-980c-b807f97e31c5" witdh="28" height="28"/></a> **[Eduarda Mascarenhas](https://github.com/dudxyz)**: Secretária Geral da LADATA
+
 Se precisar de ajuda ou tiver dúvidas, fique à vontade para entrar em contato com a equipe da oficina. Bons estudos e boa prática! 🚀
