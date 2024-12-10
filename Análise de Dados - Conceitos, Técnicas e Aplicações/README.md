@@ -1,5 +1,5 @@
 <h1>📊 Oficina: Análise de Dados — Conceitos, Técnicas e Aplicações</h1>
-Bem-vindo à nossa oficina de Análise de Dados! Aqui, você terá acesso a todo o material necessário para aprender, praticar e consolidar seus conhecimentos. Este repositório contém notebooks de prática e desafio, slides de apresentação e o material didático de apoio.
+Bem-vindo à nossa oficina de Análise de Dados! Aqui, você terá acesso a todo o material necessário para aprender, praticar e consolidar seus conhecimentos. Este repositório contém notebooks de prática e desafio, assim como seus respectivos dados, slides de apresentação e o material didático de apoio.
 
 
 <h2>🎯 Objetivo da Oficina</h2>
