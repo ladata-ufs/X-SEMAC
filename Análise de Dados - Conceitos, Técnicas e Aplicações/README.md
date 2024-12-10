@@ -19,7 +19,6 @@ A seguir, apresentamos a estrutura das pastas e uma breve descrição do que voc
     📂 Materiais/
         📄 Material Didático.pdf: Documento teórico com explicações detalhadas e exemplos práticos sobre análise de dados.
         📄 Slides.pdf: Apresentação utilizada durante a oficina em formato PDF.
-        📄 Slides.pptx: Arquivo de slides editável no formato PowerPoint.
 
     📂 Notebooks/
         📄 pratica.ipynb: Notebook interativo que aborda conceitos fundamentais, incluindo análise descritiva, limpeza de dados e introdução à inferência estatística.
