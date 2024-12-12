@@ -4,7 +4,7 @@ Repositório oficial dos materiais das apresentações da LADATA na X SEMAC.
 ## :file_folder: [Análise de Dados - Conceitos, Técnicas e Aplicações](https://github.com/ladata-ufs/X-SEMAC/tree/main/An%C3%A1lise%20de%20Dados%20-%20Conceitos%2C%20T%C3%A9cnicas%20e%20Aplica%C3%A7%C3%B5es)
 Oficina para tratar de Análise de dados, dos conceitos técnicos e estatísticos até as aplicações, usando Python e Jupyter Notebooks.
 
-## :file_folder: Ciência de Dados para Sistemas Embarcados - dos sensores às análises
+## :file_folder: [Ciência de Dados para Sistemas Embarcados - dos sensores às análises](https://github.com/ladata-ufs/X-SEMAC/tree/main/Ci%C3%AAncia%20de%20Dados%20para%20Sistemas%20Embarcados)
 Minicurso para tratar da união entre os sistemas embarcados e a ciência de dados. Como esse tipo de sistema pode ser utilizado na coleta de dados; como armazenamos esses dados; e como podemos analisá-los.
 
 ## :file_folder: Guia LADATA de ferramentas para Ciência de Dados
