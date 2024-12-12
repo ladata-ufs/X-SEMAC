@@ -7,7 +7,7 @@ Oficina para tratar de Análise de dados, dos conceitos técnicos e estatístico
 ## :file_folder: [Ciência de Dados para Sistemas Embarcados - dos sensores às análises](https://github.com/ladata-ufs/X-SEMAC/tree/main/Ci%C3%AAncia%20de%20Dados%20para%20Sistemas%20Embarcados)
 Minicurso para tratar da união entre os sistemas embarcados e a ciência de dados. Como esse tipo de sistema pode ser utilizado na coleta de dados; como armazenamos esses dados; e como podemos analisá-los.
 
-## :file_folder: Guia LADATA de ferramentas para Ciência de Dados
+## :file_folder: [Guia LADATA de Ferramentas para Ciência de Dados](https://github.com/ladata-ufs/X-SEMAC/tree/main/Guia%20LADATA%20de%20Ferramentas%20para%20Ci%C3%AAncia%20de%20Dados)
 Oficina para apresentação do Guia LADATA de Ferramentas para Ciência de Dados. A oficina vai trabalhar as principais ferramentas, soluções e plataformas de Ciência de Dados, como Jupyter Notebook, Kaggle e Git/GitHub.
 
 ---
