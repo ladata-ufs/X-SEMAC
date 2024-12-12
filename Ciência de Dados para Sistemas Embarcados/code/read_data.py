@@ -16,7 +16,7 @@ def read_data(temperatura, umidade):
 
 
 # Conecta ao serial pela porta utilizada pelo arduino
-arduino = ard.Serial('COM9', 9600) # Alterar para o relativo ao seu computador
+arduino = ard.Serial('COM11', 9600) # Alterar para o relativo ao seu computador
 
 contador = 1 # contador para controlar o número de leituras
 MAX_VALUE = 150 # número máximo de leituras dos dados
